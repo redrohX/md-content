@@ -1,5 +1,5 @@
 ---
-title: 'No let''s call this index'
+title: 'Why don''t we call this page home'
 ---
 
 ##this is home
